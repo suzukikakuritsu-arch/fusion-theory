@@ -112,4 +112,4 @@ The goal is structural exploration.
 
 ## License
 
-TBD
+MIT License
